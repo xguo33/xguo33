@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Xu Guo
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning java
+- 🌱 I’m currently working on my CS master in Depaul University！
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

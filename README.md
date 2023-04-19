@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xguo33
+- 👋 Hi, I’m Xu Guo
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
